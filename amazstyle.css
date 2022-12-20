@@ -1,0 +1,171 @@
+@import url();
+
+.body {
+    background-color:  #50759e;
+}
+.logo {
+    height: 60px;
+    background-color: #222f3e;
+    padding-top: 1rem;
+    padding-left: 1rem;
+}
+
+.nav {
+    background-color:#364759;
+    padding: 1rem;
+    font-weight: 400;
+    color: white;   
+}
+
+.nav span {
+    margin-left: 1rem;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+main {
+    background-color: #eaeded;
+    padding: 2rem;
+}
+
+a {
+    color: white;
+}
+
+h1, h4 {
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+.img_container {
+    background-image: url("/D4/assets/bg-image.png");
+    padding: 2rem; 
+    margin-top: 1rem;
+}
+
+.shop_title {
+    background-color: orange;
+    text-align: center;
+    font-weight: 400;
+    padding: 0.1rem;
+    color: white;
+}
+
+#firts_container {
+    margin-top: 16px;
+    background-color: white;
+    margin-top: 1rem;
+}
+
+.title-container {
+    text-align: left;
+    padding: 1rem;
+}
+
+.title {
+    //
+}
+
+.subtitle {
+    font-weight: 800;
+    color: #50759e;
+    font-size: small;
+}
+
+.box {
+    display: flex;
+    justify-content: space-around;
+}
+
+.img {
+    width: 304px;
+    height: 379px;
+    object-fit: cover;
+    margin: 1rem;
+    border-radius: 20px;
+    -webkit-box-shadow: 9px 7px 15px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 9px 7px 15px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 9px 7px 15px 0px rgba(34, 60, 80, 0.2);
+}
+
+#snd_container {
+    background-color: white;
+    margin-top: 1rem;
+}
+
+.snd_title_container {
+    text-align: center;
+}
+
+.trd_container {
+    margin-top: 1rem;
+}
+
+.qtr_container {
+    margin-top: 1rem;
+}
+
+.footer {
+    text-align: center;
+    background-color: #364759;
+    color: white;
+    padding: 1rem;
+    margin-top: 1rem;
+}
+
+.snd_footer {
+    background-color: #222f3e;
+    padding: 3rem;
+    text-align: center;
+}
+
+.cards_line {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
+
+.cards {
+    padding: 1rem;
+}
+
+.cards_line h3, p {
+    color: black;
+}
+
+
+.cards block {
+margin-top: 1rem;
+text-align: left;
+}
+
+
+.block {
+    width: 280px;
+    height: 470px;
+    background-color:white;
+    color: #eaeded;
+    padding: 1rem;
+}
+
+.block img {
+    width: 120px;
+    height: 114px;
+}
+
+.block h4 {
+    color: #50759e;
+    font-weight: lighter;
+    text-align: left;
+}
+
+.child {
+    padding: 0.5rem;
+    display: inline-block;
+}
+   
+
+
+
